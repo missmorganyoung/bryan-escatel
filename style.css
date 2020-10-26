@@ -843,3 +843,8 @@ h8 {
   padding-left: 30px;
 }
 
+.watermark {
+  text-align: center;
+  width:100%;
+}
+
